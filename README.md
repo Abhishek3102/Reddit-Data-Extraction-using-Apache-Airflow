@@ -41,7 +41,7 @@ The pipeline is designed to:
 
 1. Clone the repository.
    ```bash
-    git clone
+    git clone https://github.com/Abhishek3102/Reddit-Data-Extraction-using-Apache-Airflow.git
    ```
 2. Create a virtual environment.
    ```bash
